@@ -91,6 +91,7 @@ git clone https://github.com/jpm70/ACDC.git
 cd ACDC
 
 # 2. Instala
+sudo chmod +x install.sh
 sudo ./install.sh install
 ```
 
